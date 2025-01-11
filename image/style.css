@@ -1,0 +1,100 @@
+
+.open-sans-rakib {
+    font-family: "Work Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+
+
+
+
+
+
+
+
+
+.navs{
+    display: flex;
+    justify-content: space-between;
+
+
+}
+.bd{
+    
+    
+
+
+}
+
+
+
+}
+
+
+.banner{
+    width: 1280px;
+    border-radius: 5px;
+    height: 560px;
+    background-color: rgb(197, 228, 214);
+    left: 9px;
+    display: flex;
+    justify-content: space-between;
+    padding: 121px, 100px, 80px, 100px ;
+
+
+}
+.header{
+    background-color: mediumaquamarine;
+
+
+}
+.banner-content{
+    max-width: 580px;
+    margin: 24px, 160px, 0pxm 160px;
+
+
+
+}
+.btn-primary{background-color: cadetblue;
+    width: 200px;
+    height: 22px;
+    top: 17px;
+    left: 34px;
+    font-weight: bold;
+    text-align: left;
+
+
+
+}
+.banner-gretings{
+    width: 622px;
+    height: 28px;
+    
+
+
+}
+.banner-title{
+    width: 622px;
+    height: 200px;
+    top: 44px;
+    text-align: left;
+    font-size: 50px;
+    font-weight: 700;
+
+
+}
+.banner-profile{
+    width: 474px;
+    height: 400px;
+    top: 75px;
+    left: 896px;
+
+}
+.container{
+    
+    gap: 24px;
+    flex-direction: column;
+
+
+}
